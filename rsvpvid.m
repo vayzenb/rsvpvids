@@ -6,7 +6,7 @@ function  rsvpvid(folder, vidName, speed)
 %speed - how fast you want each image presented (i.e., frames per second). Default is 10 (100 ms).
 %
 %Example RSVP vid at ~70ms per image:
-%RSVPVid('vayzenb/Stimuli/', 'exampleVid', 14)
+%rsvpvid('vayzenb/Stimuli/', 'exampleVid', 14)
 %
 %Created by Vlad Ayzenberg
 %6.4.19
